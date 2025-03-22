@@ -1,6 +1,6 @@
 package Task;
 
-public class Task001_Table_of_nine {
+public class Task_001_Table_of_nine {
     public static void main(String[] args) {
         int a=9;
         System.out.printf ("Print table of %d%n",a);
