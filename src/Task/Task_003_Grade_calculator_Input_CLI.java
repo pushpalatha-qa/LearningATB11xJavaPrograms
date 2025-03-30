@@ -1,6 +1,6 @@
 package Task;
 
-public class Task_003_Grade_calculator {
+public class Task_003_Grade_calculator_Input_CLI {
 
     public static void main(String[] args) {
         /* Write a program that calculates and displays the letter
