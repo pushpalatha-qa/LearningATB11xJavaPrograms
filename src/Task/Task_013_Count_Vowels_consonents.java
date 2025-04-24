@@ -13,7 +13,7 @@ public class Task_013_Count_Vowels_consonents {
         for (int i = 0; i < name.length(); i++) {
             char ch = name.charAt(i);
 
-            if (Character.isLetter(ch)) { // Only check letters
+           // if (Character.isLetter(ch)) { // Only check letters
                 if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
                     vowels++;
 
@@ -23,12 +23,13 @@ public class Task_013_Count_Vowels_consonents {
 
                 }
             }
-        }
         System.out.println("number of vowels is " + vowels);
         System.out.println("number of consonents is " + consonants);
+        }
+
 
     }
-}
+
 
 //output is --------//
 //Enter the name
