@@ -15,6 +15,6 @@ public class Lab_140_Array_Creation {
         names[1] = "Amit";
         names[2] = "Yasho";
         System.out.println(names[2]);
-
+//test
     }
 }
